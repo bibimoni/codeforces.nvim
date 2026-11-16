@@ -4,6 +4,8 @@ A light Neovim colorscheme that reproduces the Codeforces submission view
 ("→ Source" block) — the stock `prettify.css` palette rendered on
 codeforces.com's light page.
 
+![codeforces.nvim on a C++ file](screenshots/cpp.png)
+
 | prettify class | token | hex (measured) |
 | --- | --- | --- |
 | `.pln` | plain text | `#000000` |
